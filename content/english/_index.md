@@ -14,7 +14,7 @@ feature:
   title: Hugity makes websites simple again.
   feature_item:
     - name: Instant launch
-      icon: fas fa-rocket-launch
+      icon: fas fa-rocket
       content: Go live in seconds.
     - name: Intuitive editing
       icon: fas fa-pen-to-square
