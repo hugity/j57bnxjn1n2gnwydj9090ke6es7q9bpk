@@ -9,19 +9,6 @@ banner:
     enable: true
     label: Launch with Hugity
     link: "https://app.hugity.com"
-feature:
-  enable: true
-  title: Hugity makes websites simple again.
-  feature_item:
-    - name: Instant launch
-      icon: fas fa-rocket
-      content: Go live in seconds.
-    - name: Intuitive editing
-      icon: fas fa-pen-to-square
-      content: Write with a familiar, block-based editor.
-    - name: Lightweight customization
-      icon: fas fa-object-group
-      content: Keep it clean, focus on your content.
 service:
   enable: true
   service_item:
@@ -79,6 +66,19 @@ service:
         enable: true
         label: Check it out
         link: '#'
+feature:
+  enable: true
+  title: Hugity makes websites simple again.
+  feature_item:
+    - name: Instant launch
+      icon: fas fa-rocket
+      content: Go live in seconds.
+    - name: Intuitive editing
+      icon: fas fa-pen-to-square
+      content: Write with a familiar, block-based editor.
+    - name: Lightweight customization
+      icon: fas fa-object-group
+      content: Keep it clean, focus on your content.
 screenshot:
   enable: true
   title: Experience the best <br> workflow with us
