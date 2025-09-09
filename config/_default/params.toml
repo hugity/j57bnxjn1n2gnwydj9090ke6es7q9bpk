@@ -39,7 +39,7 @@ preloader = "" # use jpg, png, svg or gif format. example - "images/preloader.gi
 [navigation_button]
 enable = true
 label = "Get Started"
-link = "app.hugity.com"
+link = "https://www.app.hugity.com"
 
 
 # crisp chat
