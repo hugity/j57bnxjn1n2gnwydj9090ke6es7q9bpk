@@ -8,54 +8,64 @@ banner:
   button:
     enable: true
     label: Launch with Hugity
-    link: "https://app.hugity.com"
+    link: https://app.hugity.com
 feature:
   enable: true
   title: Hugity makes websites simple again.
   feature_item:
     - name: Instant launch
       icon: fas fa-rocket
-      content: Skip the setup, Hugity takes care of hosting and deployment so your site is live in seconds.
+      content: >-
+        Skip the setup, Hugity takes care of hosting and deployment so your site
+        is live in seconds.
     - name: Intuitive editing
       icon: fas fa-pen-to-square
-      content: Create pages in a familiar, block-based editor inspired by Notion - focus on your ideas, not code.
+      content: >-
+        Create pages in a familiar, block-based editor inspired by Notion -
+        focus on your ideas, not code.
     - name: Lightweight customization
       icon: fas fa-object-group
-      content: Add highlights, images, and simple styling to make your site yours, without getting lost in design tweaks.
+      content: >-
+        Add highlights, images, and simple styling to make your site yours,
+        without getting lost in design tweaks.
 service:
   enable: true
   service_item:
-    - title: Documentation sites
+    - title: Build Clear, Professional Documentation
       images:
         - images/service-1.png
       content: >-
-        Create clear, structured documentation for your product, project, or team.
-        Hugity makes it effortless to organize and publish guides, FAQs, and tutorials.
+        Struggling to share guides, tutorials, or FAQs with your team or users? 
+        Hugity turns your content into polished documentation sites in seconds. 
+        Organize, format, and publish — all without worrying about hosting or complex setups.
       button:
         enable: true
-        label: View example
+        label: See Example
         link: '#'
-    - title: Portfolios & blogs
+    - title: Showcase Your Work or Ideas
       images:
         - images/service-2.png
       content: >-
-        Showcase your work, publish articles, or build a personal brand.
-        With Hugity, your site stays clean and professional without hours of design tweaks.
+        Whether you're a designer, writer, or creator, Hugity makes it 
+        effortless to build a portfolio or blog. Highlight your projects, 
+        share articles, and create a professional online presence — 
+        without endless design tweaks or technical headaches.
       button:
         enable: true
-        label: View example
+        label: Explore a Demo
         link: '#'
-    - title: Business websites
+    - title: Launch a Polished Business Website
       images:
         - images/service-3.png
       content: >-
-        Launch a polished online presence for your company or side hustle.
-        Hugity handles the setup so you can focus on reaching customers.
+        Need a professional website for your startup, agency, or side hustle? 
+        Hugity handles deployment and hosting so you can focus on your brand, 
+        products, and customers. Launch quickly, customize lightly, 
+        and go live with confidence.
       button:
         enable: true
-        label: View example
+        label: Try It Now
         link: '#'
-
 screenshot:
   enable: true
   title: Experience the best <br> workflow with us
