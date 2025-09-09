@@ -37,7 +37,7 @@ service:
       content: >-
         Struggling to share guides, tutorials, or FAQs with your team or users?
         Hugity turns your content into polished documentation sites in seconds. 
-
+        <br>
         Organize, format, and publish - all without worrying about hosting or complex setups.
       button:
         enable: true
@@ -49,7 +49,7 @@ service:
       content: >-
         Whether you're a designer, writer, or creator, Hugity makes it 
         effortless to build a portfolio or blog. 
-        
+        <br>
         Highlight your projects, share articles, and create a professional online presence - 
         without endless design tweaks or technical headaches.
       button:
@@ -63,7 +63,7 @@ service:
         Need a professional website for your startup, agency, or side hustle? 
         Hugity handles deployment and hosting so you can focus on your brand, 
         products, and customers. 
-        
+        <br>
         Launch quickly, customize lightly, and go live with confidence.
       button:
         enable: true
