@@ -25,60 +25,37 @@ feature:
 service:
   enable: true
   service_item:
-    - title: It is the most advanced digital marketing and it company.
-      images:
-        - images/service-1.png
-        - images/service-2.png
-        - images/service-3.png
-      content: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat
-        tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra
-        tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit.
-        Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi
-        nunc viverra tellus. Ac laoreet sit vel consquat.
-      button:
-        enable: true
-        label: Check it out
-        link: '#'
-    - title: It is a privately owned Information and cyber security company
+    - title: Documentation sites
       images:
         - images/service-1.png
       content: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat
-        tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra
-        tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit.
-        Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi
-        nunc viverra tellus. Ac laoreet sit vel consquat.
+        Create clear, structured documentation for your product, project, or team.
+        Hugity makes it effortless to organize and publish guides, FAQs, and tutorials.
       button:
         enable: true
-        label: Check it out
+        label: View example
         link: '#'
-    - title: It’s a team of experienced and skilled people with distributions
+    - title: Portfolios & blogs
       images:
         - images/service-2.png
       content: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat
-        tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra
-        tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit.
-        Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi
-        nunc viverra tellus. Ac laoreet sit vel consquat.
+        Showcase your work, publish articles, or build a personal brand.
+        With Hugity, your site stays clean and professional without hours of design tweaks.
       button:
         enable: true
-        label: Check it out
+        label: View example
         link: '#'
-    - title: A company standing different from others
+    - title: Business websites
       images:
         - images/service-3.png
       content: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat
-        tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra
-        tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit.
-        Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi
-        nunc viverra tellus. Ac laoreet sit vel consquat.
+        Launch a polished online presence for your company or side hustle.
+        Hugity handles the setup so you can focus on reaching customers.
       button:
         enable: true
-        label: Check it out
+        label: View example
         link: '#'
+
 screenshot:
   enable: true
   title: Experience the best <br> workflow with us
