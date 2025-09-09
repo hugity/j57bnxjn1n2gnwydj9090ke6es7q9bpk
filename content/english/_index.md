@@ -37,8 +37,8 @@ service:
       content: >-
         Struggling to share guides, tutorials, or FAQs with your team or users?
         Hugity turns your content into polished documentation sites in seconds. 
-        <br>
-        Organize, format, and publish - all without worrying about hosting or complex setups.
+        <br> Organize, format, and publish - all without worrying about hosting
+        or complex setups.
       button:
         enable: true
         label: See Example
@@ -48,10 +48,9 @@ service:
         - images/service-2.png
       content: >-
         Whether you're a designer, writer, or creator, Hugity makes it 
-        effortless to build a portfolio or blog. 
-        <br>
-        Highlight your projects, share articles, and create a professional online presence - 
-        without endless design tweaks or technical headaches.
+        effortless to build a portfolio or blog.  <br> Highlight your projects,
+        share articles, and create a professional online presence -  without
+        endless design tweaks or technical headaches.
       button:
         enable: true
         label: Explore a Demo
@@ -62,26 +61,25 @@ service:
       content: >-
         Need a professional website for your startup, agency, or side hustle? 
         Hugity handles deployment and hosting so you can focus on your brand, 
-        products, and customers. 
-        <br>
-        Launch quickly, customize lightly, and go live with confidence.
+        products, and customers.  <br> Launch quickly, customize lightly, and go
+        live with confidence.
       button:
         enable: true
         label: Try It Now
         link: '#'
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
+  title: No matter the use case, <br> Hugity will handle it
   image: images/screenshot.svg
 call_to_action:
   enable: true
   title: Ready to get started?
   image: images/cta.svg
   content: >-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+    This landing page was built with Hugity on top of Hugo - the same fast,
+    reliable tech you'll use for your own site. Launch yours today in seconds.
   button:
     enable: true
-    label: Contact Us
-    link: contact/
+    label: Join the Beta
+    link: '#'
 ---
