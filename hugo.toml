@@ -9,7 +9,7 @@ pagination.pagerSize = 3
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
 # disable language
-disableLanguages = [] # example: ["de"] for disable deutsch language. see https://gohugo.io/content-management/multilingual/
+disableLanguages = ["de"] # example: ["de"] for disable deutsch language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = true # If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content.
 
 ########################### Services #############################
