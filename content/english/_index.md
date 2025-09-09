@@ -3,34 +3,25 @@ banner:
   title: Build & Launch a Website in Seconds
   image: images/banner-art.svg
   content: >-
-    With Hugity's Notion-style editor, creating and publishing
-    online is as effortless as writing in a journal.
+    With Hugity's Notion-style editor, creating and publishing online is as
+    effortless as writing in a journal.
   button:
     enable: true
-    label: Contact Us
-    link: contact/
+    label: Launch with Hugity
+    link: "https://app.hugity.com"
 feature:
   enable: true
-  title: Yap yap yap
+  title: Hugity makes websites simple again.
   feature_item:
-    - name: Clean Code
-      icon: fas fa-code
-      content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-    - name: Object Oriented
+    - name: Instant launch
+      icon: fas fa-rocket-launch
+      content: Go live in seconds.
+    - name: Intuitive editing
+      icon: fas fa-pen-to-square
+      content: Write with a familiar, block-based editor.
+    - name: Lightweight customization
       icon: fas fa-object-group
-      content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-    - name: 24h Service
-      icon: fas fa-user-clock
-      content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-    - name: Value For Money
-      icon: fas fa-heart
-      content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-    - name: Faster Response
-      icon: fas fa-tachometer-alt
-      content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-    - name: Cloud Support
-      icon: fas fa-cloud
-      content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+      content: Keep it clean, focus on your content.
 service:
   enable: true
   service_item:
