@@ -101,7 +101,7 @@ rel = "manifest"
 [params.variables]
 color_primary = "#1d3a4d"
 color_secondary = "#162939"
-body_color = "#eaeaea"
+body_color = "#f5e2de"
 text_color = "#777"
 text_dark = "#222"
 text_light = "#959595"
