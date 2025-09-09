@@ -11,7 +11,7 @@ banner:
     link: contact/
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Yap yap yap
   feature_item:
     - name: Clean Code
       icon: fas fa-code
