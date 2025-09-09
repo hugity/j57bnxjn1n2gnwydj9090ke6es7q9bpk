@@ -45,7 +45,7 @@ service:
         link: '#'
     - title: Showcase Your Work or Ideas
       images:
-        - images/service-2.png
+        - images/Blog-Preview-1757433892978-6z91nc.png
       content: >-
         Whether you're a designer, writer, or creator, Hugity makes it 
         effortless to build a portfolio or blog.  <br> Highlight your projects,
