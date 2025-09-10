@@ -81,5 +81,5 @@ call_to_action:
   button:
     enable: true
     label: Join the Beta
-    link: '#'
+    link: 'https://app.hugity.com'
 ---
