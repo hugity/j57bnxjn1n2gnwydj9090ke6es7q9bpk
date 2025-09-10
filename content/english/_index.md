@@ -1,7 +1,7 @@
 ---
 banner:
   title: Build & Launch a Website in Seconds
-  image: images/hero-image-1757514179035-f0tvpr.png
+  image: images/cta.svg
   content: >-
     With Hugity's Notion-style editor, creating and publishing online is as
     effortless as writing in a journal.
