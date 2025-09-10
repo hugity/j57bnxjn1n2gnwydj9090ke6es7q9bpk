@@ -57,7 +57,7 @@ service:
         link: '#'
     - title: Launch a Polished Business Website
       images:
-        - images/service-3.png
+        - images/Business-Preview-1757518063454-52kg95.png
       content: >-
         Need a professional website for your startup, agency, or side hustle? 
         Hugity handles deployment and hosting so you can focus on your brand, 
