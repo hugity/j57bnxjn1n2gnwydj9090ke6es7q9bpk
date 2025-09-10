@@ -33,7 +33,7 @@ service:
   service_item:
     - title: Build Clear, Professional Documentation
       images:
-        - images/service-1.png
+        - images/Blog-Preview-1757433892978-6z91nc.png
       content: >-
         Struggling to share guides, tutorials, or FAQs with your team or users?
         Hugity turns your content into polished documentation sites in seconds. 
