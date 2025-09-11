@@ -74,7 +74,7 @@ screenshot:
 call_to_action:
   enable: true
   title: Ready to get started?
-  image: images/cta.svg
+  image: images/hero-image-1757514179035-f0tvpr.png
   content: >-
     This landing page was built with Hugity on top of Hugo - the same fast,
     reliable tech you'll use for your own site. Launch yours today in seconds.
