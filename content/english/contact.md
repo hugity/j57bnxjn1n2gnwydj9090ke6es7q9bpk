@@ -5,7 +5,7 @@ description: Hugity is a turnkey CMS that lets you launch websites in seconds wi
 draft: false
 layout: contact
 ---
-Why you should contact us!
+#### Why you should contact us!
 
 We’d love to hear from you! Whether you want early access, have feedback, or just want to see if Hugity is right for you — we’re here to help.
 
