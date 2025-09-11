@@ -27,7 +27,7 @@ faq:
 call_to_action:
   enable: true
   title: Ready to get started?
-  image: images/cta.svg
+  image: images/hero-image-1757514179035-f0tvpr.png
   content: >-
     Launch your first website with Hugity in seconds.
     Sign up free today and help shape the future of simple publishing.
