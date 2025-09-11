@@ -21,12 +21,12 @@ weight = 4
 
 # footer menu left
 [[footer_left]]
-name = "About Us"
-url = "#"
+name = "Get Started"
+url = "https://app.hugity.com"
 
 [[footer_left]]
-name = "Quick Start"
-url = "#"
+name = "FAQ"
+url = "/faq"
 
 [[footer_left]]
 name = "Pricing"
@@ -35,26 +35,10 @@ url = "/pricing"
 
 # footer menu middle
 [[footer_middle]]
-name = "Pricing"
-url = "/pricing"
-
-[[footer_middle]]
-name = "Platform"
-url = "#"
-
-[[footer_middle]]
-name = "Features"
-url = "#"
+name = ""
+url = ""
 
 # footer menu right
 [[footer_right]]
-name = "Privacy Policy"
-url = "/privacy-policy"
-
-[[footer_right]]
-name = "Terms & Conditions"
-url = "/terms-conditions"
-
-[[footer_right]]
-name = "FAQ"
-url = "/faq"
+name = ""
+url = ""
