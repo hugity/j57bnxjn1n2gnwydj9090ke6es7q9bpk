@@ -8,7 +8,7 @@ pricing_list:
   - name: Beta
     currency: $
     price: '0'
-    # price_per: month
+    price_per: month
     info: Let's Build the Easiest Website Builder - Together
     recommended: true
     services:
