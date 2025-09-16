@@ -5,11 +5,11 @@ description: Hugity is a turnkey CMS that lets you launch websites in seconds wi
 draft: false
 layout: contact
 ---
-### Ready to Go Premium?
+## Ready to Go Premium?
 
 During our beta phase, we're personally onboarding each Premium user to ensure the best experience.
 
-**What happens next:**
+### **What happens next:**
 
 1. **Contact us** via email or the form below
 
@@ -19,4 +19,6 @@ During our beta phase, we're personally onboarding each Premium user to ensure t
 
 4. **Direct line** to the founder for support and feedback
 
-**Beta Pricing:** $12/month (locked in for early adopters)
+### **Beta Pricing:**
+
+$12/month (locked in for early adopters)
