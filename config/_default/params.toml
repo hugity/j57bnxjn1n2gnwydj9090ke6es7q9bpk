@@ -78,8 +78,8 @@ domain = ""    # yourdomain.com
 # counter analytics: see https://counter.dev/setup.html
 # counter analytics module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/counter-analytics
 [counter]
-enable = false
-username = ""  # your username
+enable = true
+username = "vladimiras"  # your username
 
 # site verifications
 # site verifications module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/site-verifications
