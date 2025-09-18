@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://www.hugity.com/"
+baseURL = "https://www.hugity.com/"
 title = "Hugity"
 theme = "bigspring-light"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
