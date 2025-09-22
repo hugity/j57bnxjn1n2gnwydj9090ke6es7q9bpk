@@ -21,23 +21,23 @@ pricing_list:
       enable: true
       label: Get started for Free
       link: https://app.hugity.com/
-  - name: Beta - Premium
-    currency: $
-    price: "12"
-    price_per: month
-    info: For creators who need unlimited websites and premium features
-    recommended: true
-    services:
-      - Create unlimited websites
-      - Priority support
-      - Access all available themes
-      - Notion-style editor included
-      - Instant publishing
-      - First access to new features
-    button:
-      enable: true
-      label: Request Premium Access
-      link: https://www.hugity.com/upgrade
+  # - name: Beta - Premium
+  #   currency: $
+  #   price: "12"
+  #   price_per: month
+  #   info: For creators who need unlimited websites and premium features
+  #   recommended: true
+  #   services:
+  #     - Create unlimited websites
+  #     - Priority support
+  #     - Access all available themes
+  #     - Notion-style editor included
+  #     - Instant publishing
+  #     - First access to new features
+  #   button:
+  #     enable: true
+  #     label: Request Premium Access
+  #     link: https://www.hugity.com/upgrade
 faq:
   enable: true
   section: faq
